@@ -5,5 +5,4 @@ PTIT - D17CQCN01-N - N17DCCN017
 
 
 
-
-\n\This is my project in Images Processing in Premoinia Dection.
+This is my project in Images Processing in Premoinia Dection.
