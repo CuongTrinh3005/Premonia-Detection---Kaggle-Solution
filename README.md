@@ -12,3 +12,4 @@ What are the main keys I learned from this project:
 - Data Augmention will benefit the model.
 - Processing data with H5 File.
 - Hyperparameter such as learning rate significantly affect model. In this project I use lr=0.0001, which is really small to fit the data. If I use the larger learning rate, it will make the model has the weird bahavior.
+- Some metrics to deal with imbalanced data problem.
